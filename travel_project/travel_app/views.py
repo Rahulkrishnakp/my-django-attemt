@@ -4,4 +4,4 @@ from django.shortcuts import render
 
 # Create your views here.
 def fun(requst):
-    return HttpResponse("HELLO WORLD")
+    return HttpResponse("HELLO WORLD,how are u")
